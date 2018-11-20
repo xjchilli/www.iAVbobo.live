@@ -8,6 +8,7 @@
 
 #### 下載地址
 如果微信、QQ掃碼無法打開，請換其他瀏覽器掃碼下載
+ 
 ![iAVbobo爱威波App二维码](github-iavbobo-qr.png)
 
 #### 應用特色：
