@@ -5,12 +5,13 @@
 - [x] Potato Group: https://potato.im/avhot
 
 #### 2018年11月29日更新：
-- [x] 最新下载地址：[https://di.dk009.com/app.html](https://di.dk009.com/app.html?code=github-iavbobo)
+- [x] 最新下载地址：[https://www.avbobo.top](https://www.avbobo.top)
+- [x] [aiweibo.top](https://www.aiweibo.top)
+- [x] [aiweibo.xyz](https://www.aiweibo.top)
 
 #### 下载地址
 如果微信、QQ扫码无法打开，请换其他浏览器扫码下载
 
-![爱威波iAVbobo App下载二维码](github-iavbobo-qr.png)
 
 #### 应用特色：
 - iAVbobo爱威波App，永久免费在线观看，超快加载，海量正版高清片源，支持后台缓存下载！苹果安卓通用。
